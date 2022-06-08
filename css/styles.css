@@ -1,0 +1,143 @@
+/* TAGS */
+
+body {
+  margin: 0;
+  text-align: center;
+  font-family: "Raleway", sans-serif;
+  color: #070707;
+}
+
+h1 {
+  color: #064420;
+  margin: 50px auto 0;
+  font-size: 4.5rem;
+  font-family: "Meow Script", cursive;
+  line-height: 2;
+}
+
+h2 {
+  color: #064420;
+  font-family: "Raleway", sans-serif;
+  font-size: 2rem;
+  font-weight: normal;
+}
+
+h3 {
+  color: #362706;
+  font-family: "Raleway", sans-serif;
+  font-weight: bold;
+}
+
+hr {
+  margin: 80px auto;
+  width: 5%;
+  border-style: none;
+  border-top: 8px dotted #dccab4;
+}
+
+/* CLASSES */
+
+.top-container {
+  position: relative;
+  padding-top: 100px;
+  background-color: #faf1e6;
+}
+
+.bottom-container {
+  position: relative;
+  background-color: #1e6b3e;
+  margin-top: 50px;
+  padding: 30px;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.top-cloud {
+  position: absolute;
+  top: 50px;
+  right: 300px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.intro {
+  line-height: 2;
+  width: 35%;
+  margin: auto;
+}
+
+.skill-row {
+  line-height: 2;
+  text-align: left;
+  margin: 70px auto;
+  width: 50%;
+}
+
+.programming-pic {
+  margin-right: 30px;
+  width: 20%;
+  float: left;
+}
+
+.design {
+  margin-left: 10px;
+  width: 20%;
+  float: right;
+}
+
+.profile-pic {
+  margin: 100px auto 30px;
+  border-radius: 50%;
+}
+
+.btn {
+  background: #064420;
+  border-radius: 50px;
+  font-family: "Raleway", sans-serif;
+  color: #ffffff;
+  font-size: 16px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #1e6b3e;
+  text-decoration: none;
+}
+
+.contact-me-paragraph {
+  margin-bottom: 40px;
+}
+
+.copyright {
+  color: white;
+  margin-bottom: 0;
+}
+
+.footer-link {
+  color: #faf1e6;
+  margin: 20px;
+  text-decoration: none;
+}
+
+.footer-link:hover {
+  color: #f3c58d;
+}
+
+.skills-header {
+  margin-bottom: 0;
+}
+
+.programming {
+  margin-top: 50px;
+}
+
+.contact-me-header {
+  margin: 30px auto;
+}
